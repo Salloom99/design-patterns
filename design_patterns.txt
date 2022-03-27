@@ -1,0 +1,36 @@
+----------------------------------------
+Creational Patterns :
+    1_Abstract Factory
+    2_Builder
+    3_Factory Method
+    4_Prototype
+    5_Singleton
+
+    ads_Object Pool
+----------------------------------------
+Structural Patterns :
+    6_Adapter
+    7_Bridge
+    8_Composite
+    9_Decorator
+    10_Facade
+    11_Flyweight
+    12_Proxy
+
+    ads_Private Class Data
+----------------------------------------
+Behavioural Patterns :
+    13_Chain of Responsibility
+    14_Command
+    15_Interpreter
+    16_Iterator
+    17_Mediator
+    18_Memento
+    19_Observer
+    20_State
+    21_Strategy
+    22_Template Method
+    23_Visitor
+
+    ads_Null Object
+----------------------------------------
